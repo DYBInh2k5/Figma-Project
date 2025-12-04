@@ -21,3 +21,6 @@ https://sandy-maze-32564743.figma.site
 
 Game App 
 https://module-urban-42504851.figma.site
+
+Stock Price Monitoring Interface
+https://buffer-quill-98500453.figma.site
